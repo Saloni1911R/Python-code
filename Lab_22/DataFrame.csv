@@ -1,0 +1,5 @@
+data = {
+    'Name': ['Saloni', 'Avani', 'Dev', 'Pinal'],
+    'Age': [18, np.nan, 19, 20],
+    'City': ['Rajkot', 'Amrely', 'Chicago', 'Rajkot']
+}
